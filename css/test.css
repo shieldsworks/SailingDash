@@ -1,29 +1,13 @@
 body{
-	background-color: lightgrey;
+	background-color: #99aa99;
 }
 
 h1{
 	font-size: 30px;
-	color: teal;
+	color: black;
 }
 
-h2{
-	color: red;
+h3{
+	color: #99aa99;
 	font-size: 20px;
-}
-
-.big{
-	font-size: 60px;
-}
-
-.uppercase{
-	text-transform: uppercase;
-
-}
-.big.uppercase{
-	color: navy;
-}
-
-h1 span{
-	color: violet;
 }
